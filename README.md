@@ -24,6 +24,8 @@ Ayrıca, sistem mimarisini ve işlem akışını görselleştiren interaktif bir
 
 - `order_service.py`: Ana iş mantığı, sınıf tanımları ve checkout akışı.
 - `order_visual.html`: Projenin görselleştirilmiş mimari şeması.
+- `CLOUD_SETUP.md`: Google Cloud (TryGCP) bağlantı rehberi.
+- `app.yaml`: Google App Engine yapılandırma dosyası.
 - `assets/`: Proje ekran görüntüleri ve medya dosyaları.
 
 ## 🚀 Kurulum ve Kullanım
@@ -39,6 +41,8 @@ Ayrıca, sistem mimarisini ve işlem akışını görselleştiren interaktif bir
    ```
 
 3. Görsel dashboard'u görüntülemek için `order_visual.html` dosyasını herhangi bir tarayıcıda açın.
+
+4. Google Cloud bağlantısı için `CLOUD_SETUP.md` dosyasındaki adımları takip edin.
 
 ## 📸 Ekran Görüntüleri
 

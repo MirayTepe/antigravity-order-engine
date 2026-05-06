@@ -1,0 +1,7 @@
+runtime: python39
+instance_class: F1
+entrypoint: python order_service.py
+
+# Not: Bu proje şu an bir web sunucusu (Flask/FastAPI) değil, 
+# bir script olarak çalışmaktadır. Web servisi olarak kullanmak 
+# isterseniz bir framework (örnek: Flask) eklenmelidir.
